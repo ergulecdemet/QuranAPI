@@ -1,6 +1,8 @@
 # QuranAPI
 
 Acik kaynak yazılım geliştirme dersi odev 2.
+# API key
+http://api.alquran.cloud/v1/surah
 # API Platform
 Postman
 # View
